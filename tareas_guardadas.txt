@@ -1,0 +1,4 @@
+algebra,1
+analisis,1
+poo,1
+redes,1
